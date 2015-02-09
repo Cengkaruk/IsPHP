@@ -10,6 +10,12 @@ class IsPHP
      */
     public function __construct()
     {
+
+    }
+
+    public function hello()
+    {
+      return 'hello';
     }
 
 }
